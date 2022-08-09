@@ -116,3 +116,31 @@
   box-shadow: 4px 4px 16px gray;
   border-radius: 6px;
  }
+
+ .back-c{
+  height: 190px;
+  background-image: linear-gradient(45deg, #3bd1d3,  #7b81ec, #3bd1d3 );
+  border-radius: 6px;
+  box-shadow: 5px 5px 15px gray;
+
+ }
+ button{
+  border: none;
+  margin-top: 7px;
+ }
+
+ .highlight{
+  color: greenyellow;
+ }
+ .justify-content-center{
+  margin-top: 13px;
+ }
+
+ .gap{
+  margin-top: 12px;
+ }
+
+ footer{
+  text-align: center;
+ }
+ 
